@@ -246,8 +246,8 @@ public class CropImageActivity extends AppCompatActivity {
     public class NaverTranslateTask extends AsyncTask<String, Void, String> {
 
         //Naver
-        String clientId = "6c2Li8nKhiwzmhCtLL5T";//애플리케이션 클라이언트 아이디값";
-        String clientSecret = "dujkbcOZ34";//애플리케이션 클라이언트 시크릿값";
+        String clientId = "";//애플리케이션 클라이언트 아이디값";
+        String clientSecret = "";//애플리케이션 클라이언트 시크릿값";
         //언어선택도 나중에 사용자가 선택할 수 있게 옵션 처리해 주면 된다.
         String targetLang = "ko";
 
