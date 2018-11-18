@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/idInputSignUp"
+        android:layout_centerHorizontal="true"
+        android:hint="Id"
+        android:layout_marginTop="151dp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/passwordInputSignUp"
+        android:layout_centerHorizontal="true"
+        android:hint="Password"
+        android:layout_below="@+id/idInputSignUp" />
+
+    <LinearLayout
+        android:layout_below="@+id/passwordInputSignUp"
+        android:orientation="horizontal"
+        android:layout_marginTop="11dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/okButton"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="46dp"
+            android:layout_weight="1"
+            android:text="Ok"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_weight="1"
+            android:layout_marginRight="46dp"
+            android:text="Cancel"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</RelativeLayout>

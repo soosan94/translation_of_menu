@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e6fe2</color>
+    <color name="colorPrimaryDark">#8a53cf</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Jelly ToolBar -->
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorStart">#cb5ed9</color>
+    <color name="colorEnd">#8463d4</color>
+    <color name="colorBack">#c3bbf8</color>
+    <color name="colorBackGray">#f8f8f8</color>
+</resources>

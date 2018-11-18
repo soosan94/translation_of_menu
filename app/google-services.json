@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590471774466",
+    "firebase_url": "https://realfinal-ee2eb.firebaseio.com",
+    "project_id": "realfinal-ee2eb",
+    "storage_bucket": "realfinal-ee2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590471774466:android:100d4b05373efeed",
+        "android_client_info": {
+          "package_name": "com.example.owner.real_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590471774466-fdqcvvu22ea8lf4s28dj4efnch8mu83o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owner.real_final",
+            "certificate_hash": "23ca3813f3deec530e3245353c7dd75bf17b440d"
+          }
+        },
+        {
+          "client_id": "590471774466-h0v2na5gmuftpe7frco2uikjsho1a9r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC93kyHbIgq05Vujlb0tVuyLCC3lDuFeVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590471774466-h0v2na5gmuftpe7frco2uikjsho1a9r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
